@@ -24,11 +24,36 @@ Building an intelligence layer across healthcare data assets — integrating CMS
 
 ---
 
-### CMS Healthcare Data Pipeline *(Coming soon)*
+### [CMS Healthcare Data Pipeline](https://github.com/blakethom8/cms-healthcare-data)
 
 Infrastructure project ingesting 10+ CMS public datasets (NPPES, Medicare utilization, Open Payments, MIPS) into a unified data warehouse supporting multiple downstream applications.
 
-**Tech:** Python • DuckDB • SQL • Data Engineering
+**What it does:** Consolidates 90M+ rows of fragmented CMS data into queryable intelligence for provider targeting, market analysis, and relationship mapping.
+
+**Tech:** Python • DuckDB • SQL • FastAPI • Data Engineering
+
+---
+
+### [Bash, Pi & OpenClaw Education](https://github.com/blakethom8/bash-pi-openclaw-education)
+
+Comprehensive hands-on guide to understanding "Bash is all you need" for building agentic systems. Teaches Pi's architecture and OpenClaw patterns for multi-turn agent workflows.
+
+**What it teaches:** Why bash is the universal interface for agents, how to think in bash for extensible workflows, and how to build your own agents using bash primitives.
+
+**Modules:** Bash fundamentals → Pi architecture → OpenClaw patterns → Building agents
+
+---
+
+### [Learning Modules: Web Development for Python Developers](https://github.com/blakethom8/learning-modules)
+
+Three comprehensive courses on web security, frontend development, and building UIs with LLMs — designed for Python developers with zero web experience.
+
+**Topics:**
+- Web Security, Authentication & Session Management
+- Frontend Development: JavaScript, React & Modern Web Stack
+- Frontends for LLMs: Building UIs Without Being a Frontend Expert
+
+**Approach:** First principles explanations, Python→Web comparisons, real-world examples
 
 ---
 
